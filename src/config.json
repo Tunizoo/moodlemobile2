@@ -2,8 +2,8 @@
     "app_id": "com.moodle.rayaheen_mobile",
     "appname": "Rayaheen Mobile",
     "desktopappname": "Rayaheen Desktop",
-    "versioncode": 3600,
-    "versionname": "3.6.0",
+    "versioncode": 10,
+    "versionname": "1.0",
     "cache_expiration_time": 300000,
     "default_lang": "en",
     "languages": {
