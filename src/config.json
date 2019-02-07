@@ -1,7 +1,7 @@
 {
-    "app_id": "com.moodle.rayaheen_mobile",
-    "appname": "Rayaheen Mobile",
-    "desktopappname": "Rayaheen Desktop",
+    "app_id": "com.moodle.rayaheen",
+    "appname": "Rayaheen Moodle App",
+    "desktopappname": "Rayaheen Moodle Desktop",
     "versioncode": 10,
     "versionname": "1.0",
     "siteurl":"https://qz.org.sa/",
